@@ -1,0 +1,45 @@
+# Core Data & Maths
+pandas
+numpy
+scipy
+
+# Visualisation
+matplotlib
+seaborn
+plotly
+
+# Machine Learning / RFM / clustering 
+scikit-learn
+
+# Streamlit App
+streamlit
+streamlit-extras
+altair
+
+# Cohortes, CLV, Customer Analytics
+lifetimes
+
+# Traitement Dates
+python-dateutil
+
+# Export d’images / figures
+kaleido
+Pillow
+
+# Optimisation et utils
+tqdm
+
+# Notebook
+jupyter
+notebook
+ipykernel
+
+# Gestion fichiers CSV / Excel
+openpyxl
+pyarrow
+
+# Export PDF (optionnel pour docs)
+reportlab
+
+# Structure / Typage
+pydantic
